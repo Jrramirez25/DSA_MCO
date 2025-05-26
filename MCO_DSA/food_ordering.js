@@ -1,4 +1,4 @@
-// Sample Menu Data (Replace with your actual milk tea menu)
+// Sample Menu Data
 const menu = {
     Milkteas: [ //Category: Milkteas
         { name: "Classic Milk Tea", stock: 20, price: 80, description: "Simple and delicious milk tea" },
